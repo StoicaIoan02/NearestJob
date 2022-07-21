@@ -1,0 +1,82 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Buftea",
+                    "short_name": "Buftea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Orașul Buftea",
+                    "short_name": "Orașul Buftea",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "070000",
+                    "short_name": "070000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Buftea 070000, România",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.5807859,
+                        "lng": 25.970478
+                    },
+                    "southwest": {
+                        "lat": 44.5391006,
+                        "lng": 25.9170914
+                    }
+                },
+                "location": {
+                    "lat": 44.56297439999999,
+                    "lng": 25.9388214
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.5807859,
+                        "lng": 25.970478
+                    },
+                    "southwest": {
+                        "lat": 44.5391006,
+                        "lng": 25.9170914
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJJyviHFQFskAR7j6hUgj3k9g",
+            "types": [
+                "locality",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}

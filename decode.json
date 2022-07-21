@@ -1,0 +1,749 @@
+{
+    "plus_code": {
+        "compound_code": "HW7Q+5GP Buftea, România",
+        "global_code": "8GP7HW7Q+5GP"
+    },
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "67",
+                    "short_name": "67",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Strada Știrbei Vodă",
+                    "short_name": "Strada Știrbei Vodă",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Buftea",
+                    "short_name": "Buftea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Orașul Buftea",
+                    "short_name": "Orașul Buftea",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "070000",
+                    "short_name": "070000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Strada Știrbei Vodă 67, Buftea 070000, România",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.5641027,
+                        "lng": 25.9391029
+                    },
+                    "southwest": {
+                        "lat": 44.5640091,
+                        "lng": 25.9389446
+                    }
+                },
+                "location": {
+                    "lat": 44.5640682,
+                    "lng": 25.9390022
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.5654048802915,
+                        "lng": 25.9403727302915
+                    },
+                    "southwest": {
+                        "lat": 44.5627069197085,
+                        "lng": 25.93767476970849
+                    }
+                }
+            },
+            "place_id": "ChIJJWVHGPwPskAR5Ah_Vf7nZzg",
+            "plus_code": {
+                "compound_code": "HW7Q+JJ Buftea, România",
+                "global_code": "8GP7HW7Q+JJ"
+            },
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "22",
+                    "short_name": "22",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Strada Știrbei Vodă",
+                    "short_name": "Strada Știrbei Vodă",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Buftea",
+                    "short_name": "Buftea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Orașul Buftea",
+                    "short_name": "Orașul Buftea",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "070000",
+                    "short_name": "070000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Strada Știrbei Vodă 22, Buftea 070000, România",
+            "geometry": {
+                "location": {
+                    "lat": 44.56241079999999,
+                    "lng": 25.9402637
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.5637597802915,
+                        "lng": 25.9416126802915
+                    },
+                    "southwest": {
+                        "lat": 44.5610618197085,
+                        "lng": 25.9389147197085
+                    }
+                }
+            },
+            "place_id": "ChIJ3e-3L_kPskAR7boim0fXxJ8",
+            "plus_code": {
+                "compound_code": "HW6R+X4 Buftea, România",
+                "global_code": "8GP7HW6R+X4"
+            },
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "HW7Q+5G",
+                    "short_name": "HW7Q+5G",
+                    "types": [
+                        "plus_code"
+                    ]
+                },
+                {
+                    "long_name": "Buftea",
+                    "short_name": "Buftea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Orașul Buftea",
+                    "short_name": "Orașul Buftea",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "070000",
+                    "short_name": "070000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "HW7Q+5G Buftea, România",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.563,
+                        "lng": 25.938875
+                    },
+                    "southwest": {
+                        "lat": 44.56287500000001,
+                        "lng": 25.93875
+                    }
+                },
+                "location": {
+                    "lat": 44.56297439999999,
+                    "lng": 25.9388214
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.5642864802915,
+                        "lng": 25.9401614802915
+                    },
+                    "southwest": {
+                        "lat": 44.5615885197085,
+                        "lng": 25.9374635197085
+                    }
+                }
+            },
+            "place_id": "GhIJGz6Oiw9IRkAR8chpmVbwOUA",
+            "plus_code": {
+                "compound_code": "HW7Q+5G Buftea, România",
+                "global_code": "8GP7HW7Q+5G"
+            },
+            "types": [
+                "plus_code"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "61",
+                    "short_name": "61",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Strada Știrbei Vodă",
+                    "short_name": "Strada Știrbei Vodă",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Buftea",
+                    "short_name": "Buftea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Orașul Buftea",
+                    "short_name": "Orașul Buftea",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "070000",
+                    "short_name": "070000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Strada Știrbei Vodă 61, Buftea 070000, România",
+            "geometry": {
+                "location": {
+                    "lat": 44.5631288,
+                    "lng": 25.939867
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.5644777802915,
+                        "lng": 25.9412159802915
+                    },
+                    "southwest": {
+                        "lat": 44.5617798197085,
+                        "lng": 25.9385180197085
+                    }
+                }
+            },
+            "place_id": "EjBTdHJhZGEgyJh0aXJiZWkgVm9kxIMgNjEsIEJ1ZnRlYSAwNzAwMDAsIFJvbWFuaWEiGhIYChQKEgn1VV0G_A-yQBFeM0ebzCvAaxA9",
+            "types": [
+                "street_address"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "67-57",
+                    "short_name": "67-57",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Strada Știrbei Vodă",
+                    "short_name": "Strada Știrbei Vodă",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Buftea",
+                    "short_name": "Buftea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Orașul Buftea",
+                    "short_name": "Orașul Buftea",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "070000",
+                    "short_name": "070000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Strada Știrbei Vodă 67-57, Buftea 070000, România",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.5645376,
+                        "lng": 25.9405755
+                    },
+                    "southwest": {
+                        "lat": 44.5620963,
+                        "lng": 25.9361529
+                    }
+                },
+                "location": {
+                    "lat": 44.5641033,
+                    "lng": 25.9392747
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.5646659302915,
+                        "lng": 25.9405755
+                    },
+                    "southwest": {
+                        "lat": 44.5619679697085,
+                        "lng": 25.9361529
+                    }
+                }
+            },
+            "place_id": "ChIJ9VVdBvwPskARXjNHm8wrwGs",
+            "types": [
+                "route"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Buftea",
+                    "short_name": "Buftea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Orașul Buftea",
+                    "short_name": "Orașul Buftea",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "070000",
+                    "short_name": "070000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Buftea 070000, România",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.5807859,
+                        "lng": 25.970478
+                    },
+                    "southwest": {
+                        "lat": 44.5391006,
+                        "lng": 25.9170914
+                    }
+                },
+                "location": {
+                    "lat": 44.56297439999999,
+                    "lng": 25.9388214
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.5807859,
+                        "lng": 25.970478
+                    },
+                    "southwest": {
+                        "lat": 44.5391006,
+                        "lng": 25.9170914
+                    }
+                }
+            },
+            "place_id": "ChIJJyviHFQFskAR7j6hUgj3k9g",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "070000",
+                    "short_name": "070000",
+                    "types": [
+                        "postal_code"
+                    ]
+                },
+                {
+                    "long_name": "Buftea",
+                    "short_name": "Buftea",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Orașul Buftea",
+                    "short_name": "Orașul Buftea",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Buftea 070000, România",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.6121621,
+                        "lng": 26.0063983
+                    },
+                    "southwest": {
+                        "lat": 44.5073407,
+                        "lng": 25.8798838
+                    }
+                },
+                "location": {
+                    "lat": 44.5543808,
+                    "lng": 25.9538551
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.6121621,
+                        "lng": 26.0063983
+                    },
+                    "southwest": {
+                        "lat": 44.5073407,
+                        "lng": 25.8798838
+                    }
+                }
+            },
+            "place_id": "ChIJQWExcVoFskARQBE0uxCfGUk",
+            "types": [
+                "postal_code"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Orașul Buftea",
+                    "short_name": "Orașul Buftea",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Orașul Buftea, România",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.6093868,
+                        "lng": 26.006864
+                    },
+                    "southwest": {
+                        "lat": 44.505198,
+                        "lng": 25.874156
+                    }
+                },
+                "location": {
+                    "lat": 44.5543808,
+                    "lng": 25.9538551
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.6093868,
+                        "lng": 26.006864
+                    },
+                    "southwest": {
+                        "lat": 44.505198,
+                        "lng": 25.874156
+                    }
+                }
+            },
+            "place_id": "ChIJJZvm-_cPskAR6WCT1FAFkP0",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Județul Ilfov",
+                    "short_name": "IF",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Județul Ilfov, România",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 44.767888,
+                        "lng": 26.454579
+                    },
+                    "southwest": {
+                        "lat": 44.21543,
+                        "lng": 25.823766
+                    }
+                },
+                "location": {
+                    "lat": 44.535548,
+                    "lng": 26.2324886
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 44.767888,
+                        "lng": 26.454579
+                    },
+                    "southwest": {
+                        "lat": 44.21543,
+                        "lng": 25.823766
+                    }
+                }
+            },
+            "place_id": "ChIJGzLex0QdskAR6dMhIc5oMg0",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "România",
+                    "short_name": "RO",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "România",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 48.26518,
+                        "lng": 29.77839999999999
+                    },
+                    "southwest": {
+                        "lat": 43.6186193,
+                        "lng": 20.2617591
+                    }
+                },
+                "location": {
+                    "lat": 45.943161,
+                    "lng": 24.96676
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 48.26518,
+                        "lng": 29.77839999999999
+                    },
+                    "southwest": {
+                        "lat": 43.6186193,
+                        "lng": 20.2617591
+                    }
+                }
+            },
+            "place_id": "ChIJw3aJlSb_sUARlLEEqJJP74Q",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}
