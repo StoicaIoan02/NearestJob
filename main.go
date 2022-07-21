@@ -11,7 +11,6 @@ import (
 const URL1 string = "http://titularizare.edu.ro/generated/files/j/IF/pct_d/page_5.html"
 const URL2 string = "https://www.hostinger.com/tutorials/website/how-to-inspect-and-change-style-using-google-chrome"
 const URL_GEOCODING = "https://google-maps-geocoding.p.rapidapi.com/geocode/json?address='164 Townsend St., San Francisco, CA'&language=en"
-const X_RapidAPI_Key = "ea6b94a296msh310d4291ef822dep1507e4jsnc6cfcf2c00dd"
 const X_RapidAPI_Hos = "google-maps-geocoding.p.rapidapi.com"
 
 type Scoala struct {
