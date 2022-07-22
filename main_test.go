@@ -1,22 +1,20 @@
 package main
 
-// func Test2AdRezult(t *testing.T) {
-// 	SchoolsInput := "result/ilfov_schools_home_time_sorted.txt"
-// 	SchoolsOuput := "result/ilfov_schools_home_leu_time_sorted.txt"
-// 	start := 0
-// 	finish := 123
-// 	// Upload(SchoolsInput, Table(URL2, start, finish))
-// 	err := AdRezult(SchoolsInput, SchoolsOuput, start, finish, HOME) // Adauga 5 elemente la finalul fiecarei linii
-// 	if err != nil {
-// 		t.Errorf("got error: %v", err)
-// 	}
-// 	s := Unload(SchoolsOuput)
-// 	got := s[0][den.Status]
-// 	want := "OK"
-// 	if got != want {
-// 		t.Errorf("got %s, want %s", got, want)
-// 	}
-// }
+import "testing"
+
+func Test2AdRezult(t *testing.T) {
+	// SchoolsInput := "result/ilfov_schools_home_time_sorted.txt"
+	SchoolsOuput := "result/ilfov_schools_home_leu_time_sorted.txt"
+	// start := 0
+	// finish := 123
+	// Upload(SchoolsInput, Table(URL2, start, finish))
+	s := Unload(SchoolsOuput)
+	got := s[20][den.Status+5]
+	want := "OK"
+	if got != want {
+		t.Errorf("got %s, want %s", got, want)
+	}
+}
 
 // func TestSortFile(t *testing.T) {
 // 	fileToSort := "ilfov_school_dist.txt"

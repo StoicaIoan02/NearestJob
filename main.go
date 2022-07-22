@@ -16,6 +16,7 @@ const URL3 string = "http://titularizare.edu.ro/generated/files/j/IF/pct_d/page_
 const URL4 string = "http://titularizare.edu.ro/generated/files/j/B/pct_d/page_11.html"
 const URL5 string = "http://titularizare.edu.ro/generated/files/j/B/pct_d/page_12.html"
 const HOME string = "Str. Sfânta Agnes 21, Popești-Leordeni 077160"
+const FACULTATE string = "Șoseaua Panduri 90, București 050663"
 
 // const POLI_LEU string =
 const URL_GEOCODING = "https://google-maps-geocoding.p.rapidapi.com/geocode/json?address='164 Townsend St., San Francisco, CA'&language=en"
