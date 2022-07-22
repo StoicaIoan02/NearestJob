@@ -1,6 +1,7 @@
 package main
 
 import (
+	"reflect"
 	"strings"
 	"testing"
 
@@ -44,9 +45,39 @@ func TestResponse(t *testing.T) {
 }
 
 func TestTable(t *testing.T) {
-	got := Table(URL1)
-	want := Scoala{"1592", "BUFTEA (ORAŞ BUFTEA)", "ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA"}
-	if got != want {
+	got := Table(URL1, 0, 2)
+	want := [][]string{{"1592", "BUFTEA (ORAŞ BUFTEA)",
+		"ȘCOALA GIMNAZIALĂ NR. 2 BUFTEA", "GIMNAZIAL",
+		"INFORMATICA SI TEHNOLOGIA INFORMATIEI SI A COMUNICATIILOR",
+		"18 / 0", "", "4 ani"}, {
+		"1574", "PANTELIMON (ORAŞ PANTELIMON)",
+		"ŞCOALA GIMNAZIALA NR. 1 PANTELIMON", "GIMNAZIAL",
+		"INFORMATICA SI TEHNOLOGIA INFORMATIEI SI A COMUNICATIILOR",
+		"18 / 0", "", "4 ani",
+	}}
+	if !reflect.DeepEqual(got, want) {
 		t.Errorf("got %v, want %v", got, want)
 	}
+}
+
+func TestUpload(t *testing.T) {
+	// got := Upload("ilfov.txt", Table(URL1, 0, 2))
+	// want := 1
+	// if got != want {
+	// 	t.Errorf("got %v, want %v", got, want)
+	// }
+
+	t.Run("verificare scriere/citire fisier: ", func(t *testing.T) {
+		start := 0
+		nr_linii := 40
+		URL := URL5
+		file := "buc_page_12.txt"
+		Upload(file, Table(URL, start, nr_linii))
+		got := Unload(file)
+		want := Table(URL, start, nr_linii)
+		if !reflect.DeepEqual(got, want) {
+			t.Errorf("got %v, want %v", got, want)
+		}
+	})
+
 }
